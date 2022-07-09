@@ -1,2 +1,2 @@
 # Java-Codes
-Java-Socket-Programming-Chat-Application
+My Java Codes
